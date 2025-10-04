@@ -12,12 +12,15 @@
 
 ## Table of Contents
 - [Installation](#Installation)
+- [Contribution Guide](#Contribution-Guide)
 
 <a name="Installation"/>
 
 ## Installation
 ### 1. Install Unity Hub and Unity Editor Version 6000.2.2f1 with Android/Windows/Mac build support as needed.
 ### 2. Clone the repo and open the project.
+
+<a name="Contribution-Guide"/>
 
 ## Contribution Guide
 * Open an issue or start a discussion for questions/ideas.
