@@ -1,6 +1,6 @@
 # XR Data Story Kit
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-[![License][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)(LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![XR Data Story Kit Banner](banner.png)
 
 **XR Data Story Kit** turns datasets (CSV/GeoJSON) into interactive VR stories on a tabletop map in VR. It turns CSV/GeoJSON into an interactive VR narrative experience so scientists can explore spatiotemporal data without rebuilding custom apps. This would improve the visualization and enhance education with minimal Unity development knowledge.
