@@ -1,0 +1,1 @@
+The objective of this project is to allow anyone can use it how every they pleased. The ability to use MIT License is very permissive in a way that allow anyone to use, copy, modify, merge, publish, and etc. This encourages the ability to evolve this project that would branch out to other projects as well. 
